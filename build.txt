@@ -1,0 +1,5 @@
+author = Vanilliyan
+version = 0.1.7.3
+displayName = [c/d91616:Mario Land]
+homepage = https://discord.gg/wmVszUa
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, *.pyxel
